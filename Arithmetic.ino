@@ -14,7 +14,6 @@ void setup()
 {
   //initialize serial monitor
   Serial.begin(9600);
-
 }
 
 
