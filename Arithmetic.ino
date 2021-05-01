@@ -28,8 +28,6 @@ void loop()
   //print the value of variable c on next line of serial monitor
   Serial.println(c);
 
-  a = b * c;
-
   //delay so that sample isn't immediately retaken
   delay(1000);
 }
