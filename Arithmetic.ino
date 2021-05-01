@@ -4,9 +4,9 @@
 // define variables a and b as integers with value of 2
 int a = 2;
 int b = 2;
+
 //define c as integer, this variable will gain numeric value later
 int c;
-
 
 
 
@@ -18,10 +18,9 @@ void setup()
 
 
 
-
 void loop() 
 {
-
+  //now for some arithmetic 
   c = a + b;
   
   //print the value of variable c on next line of serial monitor
